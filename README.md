@@ -2,14 +2,17 @@ Hi there! 👋 I am **Rezak Aziz**, a PhD student, **Data Privacy Specialist**, 
 
 ---
 
+
 ## 🚀 About Me
 
 - 🎓 **PhD Student** at CNAM Paris, specializing in data privacy within federated learning and distributed systems.
 - 🎓 **Engineer** from **ESI Algiers**, with a strong background in systems and networks.
 - 👨‍💻 **DevOps and System Enthusiast**, passionate about building scalable and automated infrastructures.
+
+  
 - 🔍 **Core Areas**:
    - Privacy-enhancing technologies: Homomorphic Encryption, Differential Privacy, Secure Multi-party Computation.
-   - Cloud Infrastructure (OpenStack, AWS, Harvester)
+   - Cloud Infrastructure (OpenStack, Harvester)
    - DevOps and System Administration
    - Kubernetes & Rancher Cluster Management
    - Monitoring and Automation: Prometheus, Zabbix, Ansible
