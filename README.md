@@ -1,4 +1,6 @@
-Hi there! 👋 I am **Rezak Aziz**, a PhD student, **Data Privacy Specialist**, and **DevOps/System Administration Enthusiast**. I specialize in secure federated learning, cloud computing, and systems administration.
+Hi there! 👋 
+
+I am **Rezak Aziz**
 
 ---
 
