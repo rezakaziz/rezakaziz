@@ -1,12 +1,12 @@
 Hi there! 👋 
 
-
+I am **Rezak**
 
 ---
 
 
 ## 🚀 About Me
-- I am **Rezak Aziz**
+
 - 🎓 **PhD Student** at CNAM Paris, specializing in data privacy within federated learning and distributed systems.
 - 🎓 **Engineer** from **ESI Algiers**, with a strong background in systems and networks.
 - 👨‍💻 **DevOps and System Enthusiast**, passionate about building scalable and automated infrastructures.
